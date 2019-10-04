@@ -1198,3 +1198,4 @@ Processing by StudentsController#show as HTML
   Rendering students/show.html.erb within layouts/application
   Rendered students/show.html.erb within layouts/application (0.4ms)
 Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.3ms)[0m  [1m[31mrollback transaction[0m
